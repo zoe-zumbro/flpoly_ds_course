@@ -1,8 +1,8 @@
 ## First Name Last Name
 
-### Spring 2020 
+### Term Year 
 
-Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
 - Course 1
 
