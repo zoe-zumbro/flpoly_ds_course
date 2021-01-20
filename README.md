@@ -1,2 +1,2 @@
-# flpoly_ds_course
-Introduction to Data Science Course
+# Practice Activity fo Intro to DS
+Introduction to Data Science Course. Practicing git commands and Markdown.
