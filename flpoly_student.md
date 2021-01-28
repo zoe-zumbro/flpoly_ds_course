@@ -1,23 +1,24 @@
-## First Name Last Name
-
-### Term Year 
+## Zoe Zumbro
+### Spring 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
-- Course 2
+- Intelligent Mobility
 
-- Course 3
+- Operations Research
 
-- Course 4
+- Capstone II
+
+- Reverse Logistics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- My family and my animals
 
-- Thing 2
+- Making spreadsheets and saving money
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Video Games just like the one on this website <https://www.minecraft.net/en-us/>
